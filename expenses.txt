@@ -1,3 +1,0 @@
-1|Lunch|120.0|Food
-2|Bus Ticket|50.0|Transport
-3|Notebook|80.0|Education
